@@ -80,8 +80,8 @@ O algoritmo acumula a pontuação individual de cada sensor ao longo de todos os
 - **Modularização**: Funções específicas para cálculo de risco e exibição de relatórios.
 - **Matemática Computacional**: Implementação de somatórios e médias ponderadas.
 
-## 🎥 Vídeo Demonstrativo
+## 🎥 Vídeo Demonstrativo 
 
 Confira o funcionamento do sistema e a explicação técnica no vídeo abaixo:
 
-[Link para o Vídeo no YouTube - Mission Control]([https://www.youtube.com/seu-link-aqui](https://www.youtube.com/watch?v=9758mITlr0w))
+https://www.youtube.com/watch?v=9758mITlr0w
